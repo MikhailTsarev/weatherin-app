@@ -1,0 +1,33 @@
+{% extends "index.html" %}
+
+{% block content %}
+<div>
+    <h1>Выберите город</h1>
+    <form action="" method="post" name="city_name">
+        {{form.hidden_tag()}}
+        <p>
+            Пожалуйста, введите название Вашего города:<br>
+            {{form.city_name(size=20,value=city)}}<br>
+            В качестве опции можно указать страну:{{lang}}<br>
+            {{form.country_choice(size=40,value=country)}}<br>
+        </p>
+        {% if errors %}
+        {% for error in errors %}
+        <span style="color: red;">{{error}}</span>
+        <hr>
+        {% endfor %}
+        {% endif %}
+        <p><input type="submit" value="Отправить"></p>
+    </form>
+</div>
+<div>
+    {% if temp %}
+    <h1>Погода в г. {{city}} по состоянию на {{dt}}</h1>
+    <p> Долгота: {{coord.lon}}, широта: {{coord.lat}}</p>
+    <p> {{temp}}&deg;C, {{weather}}</p><img src='http://openweathermap.org/img/wn/{{img}}@2x.png'>
+    <p> Ощущается как: {{feels_like}}&deg;C</p>
+    <p> Влажность: {{humidity}}%</p>
+    <p> Ветер: {{speed}} м/с</p>
+    {% endif %}
+</div>
+{% endblock %}

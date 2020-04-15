@@ -1,0 +1,191 @@
+{
+  "build": "py_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python"
+  ],
+  "extracted_package_dir": "C:\\Users\\d9ld9\\miniconda3\\pkgs\\dominate-2.4.0-py_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/dominate-2.4.0.dist-info/INSTALLER",
+    "Lib/site-packages/dominate-2.4.0.dist-info/LICENSE.txt",
+    "Lib/site-packages/dominate-2.4.0.dist-info/METADATA",
+    "Lib/site-packages/dominate-2.4.0.dist-info/RECORD",
+    "Lib/site-packages/dominate-2.4.0.dist-info/WHEEL",
+    "Lib/site-packages/dominate-2.4.0.dist-info/top_level.txt",
+    "Lib/site-packages/dominate/__init__.py",
+    "Lib/site-packages/dominate/_version.py",
+    "Lib/site-packages/dominate/document.py",
+    "Lib/site-packages/dominate/dom1core.py",
+    "Lib/site-packages/dominate/dom_tag.py",
+    "Lib/site-packages/dominate/svg.py",
+    "Lib/site-packages/dominate/tags.py",
+    "Lib/site-packages/dominate/util.py",
+    ".nonadmin",
+    "Lib/site-packages/dominate/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/dominate/__pycache__/_version.cpython-38.pyc",
+    "Lib/site-packages/dominate/__pycache__/document.cpython-38.pyc",
+    "Lib/site-packages/dominate/__pycache__/dom1core.cpython-38.pyc",
+    "Lib/site-packages/dominate/__pycache__/dom_tag.cpython-38.pyc",
+    "Lib/site-packages/dominate/__pycache__/svg.cpython-38.pyc",
+    "Lib/site-packages/dominate/__pycache__/tags.cpython-38.pyc",
+    "Lib/site-packages/dominate/__pycache__/util.cpython-38.pyc"
+  ],
+  "fn": "dominate-2.4.0-py_0.tar.bz2",
+  "license": "LGPL 3.0",
+  "license_family": "LGPL",
+  "link": {
+    "source": "C:\\Users\\d9ld9\\miniconda3\\pkgs\\dominate-2.4.0-py_0",
+    "type": 1
+  },
+  "md5": "636f8ee54396a9144fc545f221b40f76",
+  "name": "dominate",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\d9ld9\\miniconda3\\pkgs\\dominate-2.4.0-py_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/dominate-2.4.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/dominate-2.4.0.dist-info/LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "9ccf26cfe845e0eb8bb58053e47366e7ab6b697ae010f7650978d4b71b7d1fc1",
+        "sha256_in_prefix": "9ccf26cfe845e0eb8bb58053e47366e7ab6b697ae010f7650978d4b71b7d1fc1",
+        "size_in_bytes": 7637
+      },
+      {
+        "_path": "site-packages/dominate-2.4.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "d442bcd422d04af1947150ef9a7afb90568b12057d09a7c2b3d5697fc999b702",
+        "sha256_in_prefix": "d442bcd422d04af1947150ef9a7afb90568b12057d09a7c2b3d5697fc999b702",
+        "size_in_bytes": 13568
+      },
+      {
+        "_path": "site-packages/dominate-2.4.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "57a62282e4a079c2122b30811a62d2f41375a4c93b806cb1a29402b6d947b7c4",
+        "sha256_in_prefix": "57a62282e4a079c2122b30811a62d2f41375a4c93b806cb1a29402b6d947b7c4",
+        "size_in_bytes": 1284
+      },
+      {
+        "_path": "site-packages/dominate-2.4.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "f3335865bc10497a01f487d73a33df78dc2f02c00b0237df824dbb16abc259ba",
+        "sha256_in_prefix": "f3335865bc10497a01f487d73a33df78dc2f02c00b0237df824dbb16abc259ba",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "site-packages/dominate-2.4.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "964ab636e1e818bbef8df4a5e8e2c7c8b34189d06e4427f509b5292a11fe9586",
+        "sha256_in_prefix": "964ab636e1e818bbef8df4a5e8e2c7c8b34189d06e4427f509b5292a11fe9586",
+        "size_in_bytes": 9
+      },
+      {
+        "_path": "site-packages/dominate/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "a99e822d390833a5d419e0afad6c4e0d30b42b01ea7461e1b8f2bf20eabd14df",
+        "sha256_in_prefix": "a99e822d390833a5d419e0afad6c4e0d30b42b01ea7461e1b8f2bf20eabd14df",
+        "size_in_bytes": 88
+      },
+      {
+        "_path": "site-packages/dominate/_version.py",
+        "path_type": "hardlink",
+        "sha256": "235a89cac7d65b51dff91db4c1d6c84cd10449d09481a9814e8f7622e83120ea",
+        "sha256_in_prefix": "235a89cac7d65b51dff91db4c1d6c84cd10449d09481a9814e8f7622e83120ea",
+        "size_in_bytes": 22
+      },
+      {
+        "_path": "site-packages/dominate/document.py",
+        "path_type": "hardlink",
+        "sha256": "c0a9078d577860836382d0d4bed91da5b6afdb0ab6f4fe0034132a6c052058ae",
+        "sha256_in_prefix": "c0a9078d577860836382d0d4bed91da5b6afdb0ab6f4fe0034132a6c052058ae",
+        "size_in_bytes": 2217
+      },
+      {
+        "_path": "site-packages/dominate/dom1core.py",
+        "path_type": "hardlink",
+        "sha256": "69b4401552267b246674afde2d413716bd0b7e7206891909cdf29909f2895ea3",
+        "sha256_in_prefix": "69b4401552267b246674afde2d413716bd0b7e7206891909cdf29909f2895ea3",
+        "size_in_bytes": 1760
+      },
+      {
+        "_path": "site-packages/dominate/dom_tag.py",
+        "path_type": "hardlink",
+        "sha256": "1382aba3842e91b0249c31594a15a9eb485b81ca92d19c6e16d76ffb3a9389c6",
+        "sha256_in_prefix": "1382aba3842e91b0249c31594a15a9eb485b81ca92d19c6e16d76ffb3a9389c6",
+        "size_in_bytes": 12510
+      },
+      {
+        "_path": "site-packages/dominate/svg.py",
+        "path_type": "hardlink",
+        "sha256": "0e0da686bf4d6dde622d5e23e38479ffad84151b72e260c3ecb683ccb4f36c1b",
+        "sha256_in_prefix": "0e0da686bf4d6dde622d5e23e38479ffad84151b72e260c3ecb683ccb4f36c1b",
+        "size_in_bytes": 9220
+      },
+      {
+        "_path": "site-packages/dominate/tags.py",
+        "path_type": "hardlink",
+        "sha256": "fb88d02007b74afe04d8def005015bdc1629304cb545226f7452f9451d6a484f",
+        "sha256_in_prefix": "fb88d02007b74afe04d8def005015bdc1629304cb545226f7452f9451d6a484f",
+        "size_in_bytes": 28231
+      },
+      {
+        "_path": "site-packages/dominate/util.py",
+        "path_type": "hardlink",
+        "sha256": "3226762613f3431b5b6e401d39a6a412e1ccdcc1c5a9472f771c8d510f9b798a",
+        "sha256_in_prefix": "3226762613f3431b5b6e401d39a6a412e1ccdcc1c5a9472f771c8d510f9b798a",
+        "size_in_bytes": 3906
+      },
+      {
+        "_path": "Lib/site-packages/dominate/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dominate/__pycache__/_version.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dominate/__pycache__/document.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dominate/__pycache__/dom1core.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dominate/__pycache__/dom_tag.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dominate/__pycache__/svg.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dominate/__pycache__/tags.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/dominate/__pycache__/util.cpython-38.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "983355dd3bd0cdc8ab10978190cb949c1f85363ea2e9c7cb011471ee7e19fb42",
+  "size": 27292,
+  "subdir": "noarch",
+  "timestamp": 1566714644215,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/dominate-2.4.0-py_0.tar.bz2",
+  "version": "2.4.0"
+}

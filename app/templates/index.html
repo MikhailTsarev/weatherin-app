@@ -1,0 +1,22 @@
+<html>
+    <head>
+        <title>Узнайте погоду в городе {{city}}!</title>
+        <style>
+            a {text-decoration: none;}
+        </style>
+        <link href="/static/css/bootstrap.min.css" rel="stylesheet" media="screen">
+        <link href="/static/css/bootstrap-responsive.css" rel="stylesheet">
+        <script src="http://code.jquery.com/jquery-latest.js"></script>
+        <script src="/static/js/bootstrap.min.js"></script>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    </head>
+    <body>
+        {% if start %}
+        <h1>Привет, незнакомец!</h1>
+        <p> Посмотри, что там на улице!</p>
+        <a href="/weather"> Что там на улице? O_o </a>
+        <hr>
+        {% endif %}
+        {% block content %}{% endblock %}
+    </body>
+</html>

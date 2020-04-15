@@ -1,0 +1,759 @@
+{
+  "build": "py38_1001",
+  "build_number": 1001,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "defusedxml",
+    "python >=3.8,<3.9.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\d9ld9\\miniconda3\\pkgs\\python3-openid-3.1.0-py38_1001",
+  "features": "",
+  "files": [
+    "Lib/site-packages/openid/__init__.py",
+    "Lib/site-packages/openid/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/openid/__pycache__/association.cpython-38.pyc",
+    "Lib/site-packages/openid/__pycache__/codecutil.cpython-38.pyc",
+    "Lib/site-packages/openid/__pycache__/cryptutil.cpython-38.pyc",
+    "Lib/site-packages/openid/__pycache__/dh.cpython-38.pyc",
+    "Lib/site-packages/openid/__pycache__/extension.cpython-38.pyc",
+    "Lib/site-packages/openid/__pycache__/fetchers.cpython-38.pyc",
+    "Lib/site-packages/openid/__pycache__/kvform.cpython-38.pyc",
+    "Lib/site-packages/openid/__pycache__/message.cpython-38.pyc",
+    "Lib/site-packages/openid/__pycache__/oidutil.cpython-38.pyc",
+    "Lib/site-packages/openid/__pycache__/sreg.cpython-38.pyc",
+    "Lib/site-packages/openid/__pycache__/urinorm.cpython-38.pyc",
+    "Lib/site-packages/openid/association.py",
+    "Lib/site-packages/openid/codecutil.py",
+    "Lib/site-packages/openid/consumer/__init__.py",
+    "Lib/site-packages/openid/consumer/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/openid/consumer/__pycache__/consumer.cpython-38.pyc",
+    "Lib/site-packages/openid/consumer/__pycache__/discover.cpython-38.pyc",
+    "Lib/site-packages/openid/consumer/__pycache__/html_parse.cpython-38.pyc",
+    "Lib/site-packages/openid/consumer/consumer.py",
+    "Lib/site-packages/openid/consumer/discover.py",
+    "Lib/site-packages/openid/consumer/html_parse.py",
+    "Lib/site-packages/openid/cryptutil.py",
+    "Lib/site-packages/openid/dh.py",
+    "Lib/site-packages/openid/extension.py",
+    "Lib/site-packages/openid/extensions/__init__.py",
+    "Lib/site-packages/openid/extensions/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/openid/extensions/__pycache__/ax.cpython-38.pyc",
+    "Lib/site-packages/openid/extensions/__pycache__/sreg.cpython-38.pyc",
+    "Lib/site-packages/openid/extensions/ax.py",
+    "Lib/site-packages/openid/extensions/draft/__init__.py",
+    "Lib/site-packages/openid/extensions/draft/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/openid/extensions/draft/__pycache__/pape2.cpython-38.pyc",
+    "Lib/site-packages/openid/extensions/draft/__pycache__/pape5.cpython-38.pyc",
+    "Lib/site-packages/openid/extensions/draft/pape2.py",
+    "Lib/site-packages/openid/extensions/draft/pape5.py",
+    "Lib/site-packages/openid/extensions/sreg.py",
+    "Lib/site-packages/openid/fetchers.py",
+    "Lib/site-packages/openid/kvform.py",
+    "Lib/site-packages/openid/message.py",
+    "Lib/site-packages/openid/oidutil.py",
+    "Lib/site-packages/openid/server/__init__.py",
+    "Lib/site-packages/openid/server/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/openid/server/__pycache__/server.cpython-38.pyc",
+    "Lib/site-packages/openid/server/__pycache__/trustroot.cpython-38.pyc",
+    "Lib/site-packages/openid/server/server.py",
+    "Lib/site-packages/openid/server/trustroot.py",
+    "Lib/site-packages/openid/sreg.py",
+    "Lib/site-packages/openid/store/__init__.py",
+    "Lib/site-packages/openid/store/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/openid/store/__pycache__/filestore.cpython-38.pyc",
+    "Lib/site-packages/openid/store/__pycache__/interface.cpython-38.pyc",
+    "Lib/site-packages/openid/store/__pycache__/memstore.cpython-38.pyc",
+    "Lib/site-packages/openid/store/__pycache__/nonce.cpython-38.pyc",
+    "Lib/site-packages/openid/store/__pycache__/sqlstore.cpython-38.pyc",
+    "Lib/site-packages/openid/store/filestore.py",
+    "Lib/site-packages/openid/store/interface.py",
+    "Lib/site-packages/openid/store/memstore.py",
+    "Lib/site-packages/openid/store/nonce.py",
+    "Lib/site-packages/openid/store/sqlstore.py",
+    "Lib/site-packages/openid/urinorm.py",
+    "Lib/site-packages/openid/yadis/__init__.py",
+    "Lib/site-packages/openid/yadis/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/openid/yadis/__pycache__/accept.cpython-38.pyc",
+    "Lib/site-packages/openid/yadis/__pycache__/constants.cpython-38.pyc",
+    "Lib/site-packages/openid/yadis/__pycache__/discover.cpython-38.pyc",
+    "Lib/site-packages/openid/yadis/__pycache__/etxrd.cpython-38.pyc",
+    "Lib/site-packages/openid/yadis/__pycache__/filters.cpython-38.pyc",
+    "Lib/site-packages/openid/yadis/__pycache__/manager.cpython-38.pyc",
+    "Lib/site-packages/openid/yadis/__pycache__/parsehtml.cpython-38.pyc",
+    "Lib/site-packages/openid/yadis/__pycache__/services.cpython-38.pyc",
+    "Lib/site-packages/openid/yadis/__pycache__/xri.cpython-38.pyc",
+    "Lib/site-packages/openid/yadis/__pycache__/xrires.cpython-38.pyc",
+    "Lib/site-packages/openid/yadis/accept.py",
+    "Lib/site-packages/openid/yadis/constants.py",
+    "Lib/site-packages/openid/yadis/discover.py",
+    "Lib/site-packages/openid/yadis/etxrd.py",
+    "Lib/site-packages/openid/yadis/filters.py",
+    "Lib/site-packages/openid/yadis/manager.py",
+    "Lib/site-packages/openid/yadis/parsehtml.py",
+    "Lib/site-packages/openid/yadis/services.py",
+    "Lib/site-packages/openid/yadis/xri.py",
+    "Lib/site-packages/openid/yadis/xrires.py",
+    "Lib/site-packages/python3_openid-3.1.0.dist-info/INSTALLER",
+    "Lib/site-packages/python3_openid-3.1.0.dist-info/LICENSE",
+    "Lib/site-packages/python3_openid-3.1.0.dist-info/METADATA",
+    "Lib/site-packages/python3_openid-3.1.0.dist-info/RECORD",
+    "Lib/site-packages/python3_openid-3.1.0.dist-info/WHEEL",
+    "Lib/site-packages/python3_openid-3.1.0.dist-info/top_level.txt",
+    ".nonadmin"
+  ],
+  "fn": "python3-openid-3.1.0-py38_1001.conda",
+  "legacy_bz2_md5": "13f793e3900412f79b2521eec95aaf22",
+  "license": "Apache-2.0",
+  "license_family": "Apache",
+  "link": {
+    "source": "C:\\Users\\d9ld9\\miniconda3\\pkgs\\python3-openid-3.1.0-py38_1001",
+    "type": 1
+  },
+  "md5": "603431ddc59379544294dea0d5e36f8f",
+  "name": "python3-openid",
+  "package_tarball_full_path": "C:\\Users\\d9ld9\\miniconda3\\pkgs\\python3-openid-3.1.0-py38_1001.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/openid/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "250ebdc12fd2e17f628f11e3f5664434a63112a1a82081380c16d87068e54f24",
+        "sha256_in_prefix": "250ebdc12fd2e17f628f11e3f5664434a63112a1a82081380c16d87068e54f24",
+        "size_in_bytes": 1371
+      },
+      {
+        "_path": "Lib/site-packages/openid/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "9d18697521c40313d5b03056705f0121855866cd53602f14c9699c3079c1e79c",
+        "sha256_in_prefix": "9d18697521c40313d5b03056705f0121855866cd53602f14c9699c3079c1e79c",
+        "size_in_bytes": 1567
+      },
+      {
+        "_path": "Lib/site-packages/openid/__pycache__/association.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "d0ae0751bfdcd148b228211ede64830c5c1d18cefd2f6daf8d7f7b6cdca22e54",
+        "sha256_in_prefix": "d0ae0751bfdcd148b228211ede64830c5c1d18cefd2f6daf8d7f7b6cdca22e54",
+        "size_in_bytes": 16868
+      },
+      {
+        "_path": "Lib/site-packages/openid/__pycache__/codecutil.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "91e8caadec65fc6fe4b3345e12fd46c4751f8aa99790aced90b93b29a0b38a9f",
+        "sha256_in_prefix": "91e8caadec65fc6fe4b3345e12fd46c4751f8aa99790aced90b93b29a0b38a9f",
+        "size_in_bytes": 1967
+      },
+      {
+        "_path": "Lib/site-packages/openid/__pycache__/cryptutil.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "de806b18f2a1ab39e8084b9dadffc766221c4c0eb52b0de9ea7c6fc322cd8243",
+        "sha256_in_prefix": "de806b18f2a1ab39e8084b9dadffc766221c4c0eb52b0de9ea7c6fc322cd8243",
+        "size_in_bytes": 4005
+      },
+      {
+        "_path": "Lib/site-packages/openid/__pycache__/dh.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "e76e1925975b5c91a90163d2868036aff1be20633b042316abcb787bcee3cb37",
+        "sha256_in_prefix": "e76e1925975b5c91a90163d2868036aff1be20633b042316abcb787bcee3cb37",
+        "size_in_bytes": 2194
+      },
+      {
+        "_path": "Lib/site-packages/openid/__pycache__/extension.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "69b0f6fd6ad4560a906fd943d5169bb7372db1abc3b3a8e6992c45bb33951ba3",
+        "sha256_in_prefix": "69b0f6fd6ad4560a906fd943d5169bb7372db1abc3b3a8e6992c45bb33951ba3",
+        "size_in_bytes": 1872
+      },
+      {
+        "_path": "Lib/site-packages/openid/__pycache__/fetchers.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "bf68c65b4fe2539552d805dbe32980c240b087d455cb6aa9e60ff9c4ef47a8b7",
+        "sha256_in_prefix": "bf68c65b4fe2539552d805dbe32980c240b087d455cb6aa9e60ff9c4ef47a8b7",
+        "size_in_bytes": 13157
+      },
+      {
+        "_path": "Lib/site-packages/openid/__pycache__/kvform.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "904294c7e748115271e9fef3d0032b7147171991fd964b37045cf1bf565cb75d",
+        "sha256_in_prefix": "904294c7e748115271e9fef3d0032b7147171991fd964b37045cf1bf565cb75d",
+        "size_in_bytes": 3056
+      },
+      {
+        "_path": "Lib/site-packages/openid/__pycache__/message.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "bdd115d85d5a17485d8c37863d7ced072816f7f47a427253cd750aac81284fb3",
+        "sha256_in_prefix": "bdd115d85d5a17485d8c37863d7ced072816f7f47a427253cd750aac81284fb3",
+        "size_in_bytes": 17908
+      },
+      {
+        "_path": "Lib/site-packages/openid/__pycache__/oidutil.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "14d3404ab75477167b3bae0b26c8ec1b83ce21c2806985406e28cb8385475aaf",
+        "sha256_in_prefix": "14d3404ab75477167b3bae0b26c8ec1b83ce21c2806985406e28cb8385475aaf",
+        "size_in_bytes": 6632
+      },
+      {
+        "_path": "Lib/site-packages/openid/__pycache__/sreg.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "e4e72e163820b01e91dca5aba87beaa42752db0fece0bbaaad15279bf94eddb7",
+        "sha256_in_prefix": "e4e72e163820b01e91dca5aba87beaa42752db0fece0bbaaad15279bf94eddb7",
+        "size_in_bytes": 326
+      },
+      {
+        "_path": "Lib/site-packages/openid/__pycache__/urinorm.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "ae79285040b7f26c1a0c164b96dfa23d671e95e9cb3a08f68814291aae86ed28",
+        "sha256_in_prefix": "ae79285040b7f26c1a0c164b96dfa23d671e95e9cb3a08f68814291aae86ed28",
+        "size_in_bytes": 3061
+      },
+      {
+        "_path": "Lib/site-packages/openid/association.py",
+        "path_type": "hardlink",
+        "sha256": "12dce01ab0d4f595dd28543411acf45278d0a948578a3e23300c661df50a5124",
+        "sha256_in_prefix": "12dce01ab0d4f595dd28543411acf45278d0a948578a3e23300c661df50a5124",
+        "size_in_bytes": 18302
+      },
+      {
+        "_path": "Lib/site-packages/openid/codecutil.py",
+        "path_type": "hardlink",
+        "sha256": "6d681d88b9b93a04227996944268c6328e2141f9aa9d2190246e8213a9b86e20",
+        "sha256_in_prefix": "6d681d88b9b93a04227996944268c6328e2141f9aa9d2190246e8213a9b86e20",
+        "size_in_bytes": 2280
+      },
+      {
+        "_path": "Lib/site-packages/openid/consumer/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "4d6f9d1852dab3664ee3503d246bdbd2f4ab53acf950eed2ab6c6bdfba464a5a",
+        "sha256_in_prefix": "4d6f9d1852dab3664ee3503d246bdbd2f4ab53acf950eed2ab6c6bdfba464a5a",
+        "size_in_bytes": 142
+      },
+      {
+        "_path": "Lib/site-packages/openid/consumer/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "875946f5570f8282dfb5cd93c98162ea3900dd898e1949eab6f2c25d2e793dd3",
+        "sha256_in_prefix": "875946f5570f8282dfb5cd93c98162ea3900dd898e1949eab6f2c25d2e793dd3",
+        "size_in_bytes": 286
+      },
+      {
+        "_path": "Lib/site-packages/openid/consumer/__pycache__/consumer.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "e92a5018d88061eda27e8670c664087842293e5862eaea8ad33d31f1e0fc56fc",
+        "sha256_in_prefix": "e92a5018d88061eda27e8670c664087842293e5862eaea8ad33d31f1e0fc56fc",
+        "size_in_bytes": 61685
+      },
+      {
+        "_path": "Lib/site-packages/openid/consumer/__pycache__/discover.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "39f59c7f1d120f91ce698f0288310b15a97ed899d3df53ec1caeec6163566690",
+        "sha256_in_prefix": "39f59c7f1d120f91ce698f0288310b15a97ed899d3df53ec1caeec6163566690",
+        "size_in_bytes": 12674
+      },
+      {
+        "_path": "Lib/site-packages/openid/consumer/__pycache__/html_parse.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "7863f100e7e4691ef323920051b6c36a5451a36f62204e736f8e1e37aee7122b",
+        "sha256_in_prefix": "7863f100e7e4691ef323920051b6c36a5451a36f62204e736f8e1e37aee7122b",
+        "size_in_bytes": 7044
+      },
+      {
+        "_path": "Lib/site-packages/openid/consumer/consumer.py",
+        "path_type": "hardlink",
+        "sha256": "42d4799fa173f7aab2e689d2dbdb95bfcb5391118f5ac350a8988090bd8e447a",
+        "sha256_in_prefix": "42d4799fa173f7aab2e689d2dbdb95bfcb5391118f5ac350a8988090bd8e447a",
+        "size_in_bytes": 76758
+      },
+      {
+        "_path": "Lib/site-packages/openid/consumer/discover.py",
+        "path_type": "hardlink",
+        "sha256": "7b096747a130e38d39dca312a9a96bb6c8f6ea0e76f79479cb993928fce57b49",
+        "sha256_in_prefix": "7b096747a130e38d39dca312a9a96bb6c8f6ea0e76f79479cb993928fce57b49",
+        "size_in_bytes": 16137
+      },
+      {
+        "_path": "Lib/site-packages/openid/consumer/html_parse.py",
+        "path_type": "hardlink",
+        "sha256": "a2a89cb39db9e94968bc42686e532bd59d998c68a10e48792e074e9f8d868f2c",
+        "sha256_in_prefix": "a2a89cb39db9e94968bc42686e532bd59d998c68a10e48792e074e9f8d868f2c",
+        "size_in_bytes": 7996
+      },
+      {
+        "_path": "Lib/site-packages/openid/cryptutil.py",
+        "path_type": "hardlink",
+        "sha256": "ec885ff16660107b24fcb5e7738db6d0572fe987f009a6d31f7d44d1a0d49d69",
+        "sha256_in_prefix": "ec885ff16660107b24fcb5e7738db6d0572fe987f009a6d31f7d44d1a0d49d69",
+        "size_in_bytes": 3722
+      },
+      {
+        "_path": "Lib/site-packages/openid/dh.py",
+        "path_type": "hardlink",
+        "sha256": "19b1925353bb00d486f984e16acac2a64f769facca63ee1689f7b6e114c21694",
+        "sha256_in_prefix": "19b1925353bb00d486f984e16acac2a64f769facca63ee1689f7b6e114c21694",
+        "size_in_bytes": 1657
+      },
+      {
+        "_path": "Lib/site-packages/openid/extension.py",
+        "path_type": "hardlink",
+        "sha256": "200f3fe6bcc5853f507a957931edf453f0d30ddb1357c8a25edbdaa37e309409",
+        "sha256_in_prefix": "200f3fe6bcc5853f507a957931edf453f0d30ddb1357c8a25edbdaa37e309409",
+        "size_in_bytes": 1696
+      },
+      {
+        "_path": "Lib/site-packages/openid/extensions/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "be4747efb086981aa179f86c2dbab455840c651718700f14f4860dc6561580f0",
+        "sha256_in_prefix": "be4747efb086981aa179f86c2dbab455840c651718700f14f4860dc6561580f0",
+        "size_in_bytes": 117
+      },
+      {
+        "_path": "Lib/site-packages/openid/extensions/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "e494fec293fd9d0b4db573e88021c2e3c6b2b7db69f4e3674b8ab5ba939395db",
+        "sha256_in_prefix": "e494fec293fd9d0b4db573e88021c2e3c6b2b7db69f4e3674b8ab5ba939395db",
+        "size_in_bytes": 275
+      },
+      {
+        "_path": "Lib/site-packages/openid/extensions/__pycache__/ax.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "915e62d5cf475673b8c3fb4241a5a6b67ae8f91457f0d4c86085462a70423795",
+        "sha256_in_prefix": "915e62d5cf475673b8c3fb4241a5a6b67ae8f91457f0d4c86085462a70423795",
+        "size_in_bytes": 22945
+      },
+      {
+        "_path": "Lib/site-packages/openid/extensions/__pycache__/sreg.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "0d5f6417cc65e1d0913a2ce52dad128c01e51a83e3f9167eb7a8b638bdf38891",
+        "sha256_in_prefix": "0d5f6417cc65e1d0913a2ce52dad128c01e51a83e3f9167eb7a8b638bdf38891",
+        "size_in_bytes": 16441
+      },
+      {
+        "_path": "Lib/site-packages/openid/extensions/ax.py",
+        "path_type": "hardlink",
+        "sha256": "c59cc4e6cfd9c2bbdce77154c2c69b034ce57d4caa10bff3c420cbcb116cf7f9",
+        "sha256_in_prefix": "c59cc4e6cfd9c2bbdce77154c2c69b034ce57d4caa10bff3c420cbcb116cf7f9",
+        "size_in_bytes": 26629
+      },
+      {
+        "_path": "Lib/site-packages/openid/extensions/draft/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      },
+      {
+        "_path": "Lib/site-packages/openid/extensions/draft/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "137001792e847025db68ec77461a572cda3b08f29280de2ad90732a60245bcd2",
+        "sha256_in_prefix": "137001792e847025db68ec77461a572cda3b08f29280de2ad90732a60245bcd2",
+        "size_in_bytes": 144
+      },
+      {
+        "_path": "Lib/site-packages/openid/extensions/draft/__pycache__/pape2.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "4cc88705531f9e3617c23008a913f31492f075d0bb122851e3a4c4f9f8ba57ff",
+        "sha256_in_prefix": "4cc88705531f9e3617c23008a913f31492f075d0bb122851e3a4c4f9f8ba57ff",
+        "size_in_bytes": 7973
+      },
+      {
+        "_path": "Lib/site-packages/openid/extensions/draft/__pycache__/pape5.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "9c3b9c01828c9e29cb049b507878ab685fdd85190e064b36b54f0d4188fe2095",
+        "sha256_in_prefix": "9c3b9c01828c9e29cb049b507878ab685fdd85190e064b36b54f0d4188fe2095",
+        "size_in_bytes": 13411
+      },
+      {
+        "_path": "Lib/site-packages/openid/extensions/draft/pape2.py",
+        "path_type": "hardlink",
+        "sha256": "4c38e6419ff50b24c9fdf6e8def268d58dd83f85ca33215334bc2d290080f9b3",
+        "sha256_in_prefix": "4c38e6419ff50b24c9fdf6e8def268d58dd83f85ca33215334bc2d290080f9b3",
+        "size_in_bytes": 9485
+      },
+      {
+        "_path": "Lib/site-packages/openid/extensions/draft/pape5.py",
+        "path_type": "hardlink",
+        "sha256": "4bda0006e877c2afc11b5d4ea0fdcb35256670ae42a4e56871b77e8051b74fb3",
+        "sha256_in_prefix": "4bda0006e877c2afc11b5d4ea0fdcb35256670ae42a4e56871b77e8051b74fb3",
+        "size_in_bytes": 16508
+      },
+      {
+        "_path": "Lib/site-packages/openid/extensions/sreg.py",
+        "path_type": "hardlink",
+        "sha256": "df9ee16b5177faf702b3edd9d8c09ed3d8b863b82712440be6dd75d06ff83ed5",
+        "sha256_in_prefix": "df9ee16b5177faf702b3edd9d8c09ed3d8b863b82712440be6dd75d06ff83ed5",
+        "size_in_bytes": 17839
+      },
+      {
+        "_path": "Lib/site-packages/openid/fetchers.py",
+        "path_type": "hardlink",
+        "sha256": "bdb9f963e9fa869f05e267113da8c10962bbe42ad48679032b8423a5a036d3bf",
+        "sha256_in_prefix": "bdb9f963e9fa869f05e267113da8c10962bbe42ad48679032b8423a5a036d3bf",
+        "size_in_bytes": 15881
+      },
+      {
+        "_path": "Lib/site-packages/openid/kvform.py",
+        "path_type": "hardlink",
+        "sha256": "9a0d4706592b73ef25941233ad42ea2c18c078c8deb97c663c254f3bb8d27ea8",
+        "sha256_in_prefix": "9a0d4706592b73ef25941233ad42ea2c18c078c8deb97c663c254f3bb8d27ea8",
+        "size_in_bytes": 3296
+      },
+      {
+        "_path": "Lib/site-packages/openid/message.py",
+        "path_type": "hardlink",
+        "sha256": "8ddb65138dc973ed6828c8806a2e48c4d8ebe92fc13c510383f6ffa86e6ee7cd",
+        "sha256_in_prefix": "8ddb65138dc973ed6828c8806a2e48c4d8ebe92fc13c510383f6ffa86e6ee7cd",
+        "size_in_bytes": 22680
+      },
+      {
+        "_path": "Lib/site-packages/openid/oidutil.py",
+        "path_type": "hardlink",
+        "sha256": "dc3ac2aadd7e11c9aa6a8638d07e783359f2b9ccaaaad0f71ca033e062026fa4",
+        "sha256_in_prefix": "dc3ac2aadd7e11c9aa6a8638d07e783359f2b9ccaaaad0f71ca033e062026fa4",
+        "size_in_bytes": 6651
+      },
+      {
+        "_path": "Lib/site-packages/openid/server/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "2a962fc653dd174559a1a0cef39b05523458b77c5e3192a230edb459d3e8399e",
+        "sha256_in_prefix": "2a962fc653dd174559a1a0cef39b05523458b77c5e3192a230edb459d3e8399e",
+        "size_in_bytes": 169
+      },
+      {
+        "_path": "Lib/site-packages/openid/server/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "42db8cf6f90b523e977475008955816190fe6007025946abbc1cabb1256ca781",
+        "sha256_in_prefix": "42db8cf6f90b523e977475008955816190fe6007025946abbc1cabb1256ca781",
+        "size_in_bytes": 311
+      },
+      {
+        "_path": "Lib/site-packages/openid/server/__pycache__/server.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "355db502402301a3dcb8380dc7082dccf577a3b1e4361badbbd6974023f32f4a",
+        "sha256_in_prefix": "355db502402301a3dcb8380dc7082dccf577a3b1e4361badbbd6974023f32f4a",
+        "size_in_bytes": 53015
+      },
+      {
+        "_path": "Lib/site-packages/openid/server/__pycache__/trustroot.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "1c220732d069a13294a0631e5b54472a19710745741f75da5dc7a50c4a2f43f5",
+        "sha256_in_prefix": "1c220732d069a13294a0631e5b54472a19710745741f75da5dc7a50c4a2f43f5",
+        "size_in_bytes": 11844
+      },
+      {
+        "_path": "Lib/site-packages/openid/server/server.py",
+        "path_type": "hardlink",
+        "sha256": "202ab7a6c260a08901e3441b65adce121666e796730d8c6a4a42f71276d84b55",
+        "sha256_in_prefix": "202ab7a6c260a08901e3441b65adce121666e796730d8c6a4a42f71276d84b55",
+        "size_in_bytes": 65575
+      },
+      {
+        "_path": "Lib/site-packages/openid/server/trustroot.py",
+        "path_type": "hardlink",
+        "sha256": "5dd8f2700060c73abccf48596a9855e51751f0fc3209fb1c70877fd1e193e1fe",
+        "sha256_in_prefix": "5dd8f2700060c73abccf48596a9855e51751f0fc3209fb1c70877fd1e193e1fe",
+        "size_in_bytes": 14387
+      },
+      {
+        "_path": "Lib/site-packages/openid/sreg.py",
+        "path_type": "hardlink",
+        "sha256": "accfb1e3d70ff1e0369970e699bcb8de82234f86e66392e84bdce499002476b9",
+        "sha256_in_prefix": "accfb1e3d70ff1e0369970e699bcb8de82234f86e66392e84bdce499002476b9",
+        "size_in_bytes": 195
+      },
+      {
+        "_path": "Lib/site-packages/openid/store/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "657d719286bc5da84461091424d21da30868ae969e0658f7dda20b4df5ce5186",
+        "sha256_in_prefix": "657d719286bc5da84461091424d21da30868ae969e0658f7dda20b4df5ce5186",
+        "size_in_bytes": 215
+      },
+      {
+        "_path": "Lib/site-packages/openid/store/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "428263f86ca864aa7b9ba132ba03ee4268a110ba696d69046fd682d21de3973d",
+        "sha256_in_prefix": "428263f86ca864aa7b9ba132ba03ee4268a110ba696d69046fd682d21de3973d",
+        "size_in_bytes": 356
+      },
+      {
+        "_path": "Lib/site-packages/openid/store/__pycache__/filestore.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "72c1d534bbaacd4cfdee793c407a3fec69986bf3cdf84cb0d44cd3e1ee661a22",
+        "sha256_in_prefix": "72c1d534bbaacd4cfdee793c407a3fec69986bf3cdf84cb0d44cd3e1ee661a22",
+        "size_in_bytes": 9923
+      },
+      {
+        "_path": "Lib/site-packages/openid/store/__pycache__/interface.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "86df144995a1bc3bfbd6a14092f22cf299370246909676a5346b7abf6efce4d6",
+        "sha256_in_prefix": "86df144995a1bc3bfbd6a14092f22cf299370246909676a5346b7abf6efce4d6",
+        "size_in_bytes": 7765
+      },
+      {
+        "_path": "Lib/site-packages/openid/store/__pycache__/memstore.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "c8e016a5a7f1e3c64d216332591b9b64ede30e9ea279f0358ee85cfc6ef3068b",
+        "sha256_in_prefix": "c8e016a5a7f1e3c64d216332591b9b64ede30e9ea279f0358ee85cfc6ef3068b",
+        "size_in_bytes": 4087
+      },
+      {
+        "_path": "Lib/site-packages/openid/store/__pycache__/nonce.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "e6686a7b83281186f92587f602545aeea2488857171c18a3adb71517f4ba5179",
+        "sha256_in_prefix": "e6686a7b83281186f92587f602545aeea2488857171c18a3adb71517f4ba5179",
+        "size_in_bytes": 2524
+      },
+      {
+        "_path": "Lib/site-packages/openid/store/__pycache__/sqlstore.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "22b21b312eee1f401bc23a4f03c300b7f7cdaadd3f343a74069502a4bf54b0eb",
+        "sha256_in_prefix": "22b21b312eee1f401bc23a4f03c300b7f7cdaadd3f343a74069502a4bf54b0eb",
+        "size_in_bytes": 14577
+      },
+      {
+        "_path": "Lib/site-packages/openid/store/filestore.py",
+        "path_type": "hardlink",
+        "sha256": "ebb0f97c11e69671b4b5a42feea0645d155d80bd757b19d9f5c8075ba1d3d121",
+        "sha256_in_prefix": "ebb0f97c11e69671b4b5a42feea0645d155d80bd757b19d9f5c8075ba1d3d121",
+        "size_in_bytes": 12636
+      },
+      {
+        "_path": "Lib/site-packages/openid/store/interface.py",
+        "path_type": "hardlink",
+        "sha256": "cb320360e143e915b9ac5f06883abfe4b528fd1d309f648396d052af92bdea9c",
+        "sha256_in_prefix": "cb320360e143e915b9ac5f06883abfe4b528fd1d309f648396d052af92bdea9c",
+        "size_in_bytes": 7084
+      },
+      {
+        "_path": "Lib/site-packages/openid/store/memstore.py",
+        "path_type": "hardlink",
+        "sha256": "4ca9b93603f19d9be3f37eefefb33cbb8049098a819a446e7e8577e964f4ebff",
+        "sha256_in_prefix": "4ca9b93603f19d9be3f37eefefb33cbb8049098a819a446e7e8577e964f4ebff",
+        "size_in_bytes": 3587
+      },
+      {
+        "_path": "Lib/site-packages/openid/store/nonce.py",
+        "path_type": "hardlink",
+        "sha256": "033b097ea12c8ecedbca91f64795153133bee25d7849b5ccc5d5c59c84ca63d3",
+        "sha256_in_prefix": "033b097ea12c8ecedbca91f64795153133bee25d7849b5ccc5d5c59c84ca63d3",
+        "size_in_bytes": 2843
+      },
+      {
+        "_path": "Lib/site-packages/openid/store/sqlstore.py",
+        "path_type": "hardlink",
+        "sha256": "546ee679798883ce28f171002899e847f9c6efafff5a51607d9aea7b10878cc8",
+        "sha256_in_prefix": "546ee679798883ce28f171002899e847f9c6efafff5a51607d9aea7b10878cc8",
+        "size_in_bytes": 16631
+      },
+      {
+        "_path": "Lib/site-packages/openid/urinorm.py",
+        "path_type": "hardlink",
+        "sha256": "fb9a4c393b48fbb3d607a08135e5d8d02db5269ed20536396387d15f03dab4f8",
+        "sha256_in_prefix": "fb9a4c393b48fbb3d607a08135e5d8d02db5269ed20536396387d15f03dab4f8",
+        "size_in_bytes": 4439
+      },
+      {
+        "_path": "Lib/site-packages/openid/yadis/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "d622904b53694cb379b70be1ffc011c2f4d10bb48d224d31ae927cb81273e8db",
+        "sha256_in_prefix": "d622904b53694cb379b70be1ffc011c2f4d10bb48d224d31ae927cb81273e8db",
+        "size_in_bytes": 252
+      },
+      {
+        "_path": "Lib/site-packages/openid/yadis/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "da76a649109c8ff865948dc7c2414d71df1aa26726179e75350dc867d0722e16",
+        "sha256_in_prefix": "da76a649109c8ff865948dc7c2414d71df1aa26726179e75350dc867d0722e16",
+        "size_in_bytes": 455
+      },
+      {
+        "_path": "Lib/site-packages/openid/yadis/__pycache__/accept.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "9a609615b747f173631e94da245ef071e7862ed1208734d08aade3d5c0412734",
+        "sha256_in_prefix": "9a609615b747f173631e94da245ef071e7862ed1208734d08aade3d5c0412734",
+        "size_in_bytes": 3607
+      },
+      {
+        "_path": "Lib/site-packages/openid/yadis/__pycache__/constants.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "201f4094c72da157c09fe00fb6c599590d77638c9d724ea7fbb38695a56aecb2",
+        "sha256_in_prefix": "201f4094c72da157c09fe00fb6c599590d77638c9d724ea7fbb38695a56aecb2",
+        "size_in_bytes": 436
+      },
+      {
+        "_path": "Lib/site-packages/openid/yadis/__pycache__/discover.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "9182b232016ff4e86dbf239ef43ff54725719ec6913dd51d5e1d866b81e7ba9d",
+        "sha256_in_prefix": "9182b232016ff4e86dbf239ef43ff54725719ec6913dd51d5e1d866b81e7ba9d",
+        "size_in_bytes": 3894
+      },
+      {
+        "_path": "Lib/site-packages/openid/yadis/__pycache__/etxrd.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "06ad8b1a23d348e72e5b50761d4e7ddac552aad421872772f9514b48072cf5ea",
+        "sha256_in_prefix": "06ad8b1a23d348e72e5b50761d4e7ddac552aad421872772f9514b48072cf5ea",
+        "size_in_bytes": 8156
+      },
+      {
+        "_path": "Lib/site-packages/openid/yadis/__pycache__/filters.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "d63806fcbb857b36e116007253901efa15503e0e8b4dcfb447de6ab5bede1571",
+        "sha256_in_prefix": "d63806fcbb857b36e116007253901efa15503e0e8b4dcfb447de6ab5bede1571",
+        "size_in_bytes": 6684
+      },
+      {
+        "_path": "Lib/site-packages/openid/yadis/__pycache__/manager.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "14ae9251dcd3022f4a333051e1a72b20bea1dc44fe9bb86ce0bcff0a166b9af0",
+        "sha256_in_prefix": "14ae9251dcd3022f4a333051e1a72b20bea1dc44fe9bb86ce0bcff0a166b9af0",
+        "size_in_bytes": 6279
+      },
+      {
+        "_path": "Lib/site-packages/openid/yadis/__pycache__/parsehtml.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "0a6ab69ad5f04e26f775421d3aae1187b3619a3e920ff218023087ae8d6f826e",
+        "sha256_in_prefix": "0a6ab69ad5f04e26f775421d3aae1187b3619a3e920ff218023087ae8d6f826e",
+        "size_in_bytes": 5135
+      },
+      {
+        "_path": "Lib/site-packages/openid/yadis/__pycache__/services.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "3b933b3b172facb5fe172db5c2c6e1b1fee251382e67ee1e7f27aeb6b77e6c45",
+        "sha256_in_prefix": "3b933b3b172facb5fe172db5c2c6e1b1fee251382e67ee1e7f27aeb6b77e6c45",
+        "size_in_bytes": 1904
+      },
+      {
+        "_path": "Lib/site-packages/openid/yadis/__pycache__/xri.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "f360c103553a55efc24b32c951a22844222d37a36185cc205cb7512dc7971b3d",
+        "sha256_in_prefix": "f360c103553a55efc24b32c951a22844222d37a36185cc205cb7512dc7971b3d",
+        "size_in_bytes": 3320
+      },
+      {
+        "_path": "Lib/site-packages/openid/yadis/__pycache__/xrires.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "7c294cc575b2b4291053243e6dbca7c5a53cdafc3957d11ff75067d85f376e9a",
+        "sha256_in_prefix": "7c294cc575b2b4291053243e6dbca7c5a53cdafc3957d11ff75067d85f376e9a",
+        "size_in_bytes": 2972
+      },
+      {
+        "_path": "Lib/site-packages/openid/yadis/accept.py",
+        "path_type": "hardlink",
+        "sha256": "a5db978cc2def4bcbe681f36939ac40d436033c06d85b7ac53512f59aff0c5ca",
+        "sha256_in_prefix": "a5db978cc2def4bcbe681f36939ac40d436033c06d85b7ac53512f59aff0c5ca",
+        "size_in_bytes": 3747
+      },
+      {
+        "_path": "Lib/site-packages/openid/yadis/constants.py",
+        "path_type": "hardlink",
+        "sha256": "955aa8d055c83f2054c76c76041f43fcbcb783aa869bab65a41f998b1c0963a6",
+        "sha256_in_prefix": "955aa8d055c83f2054c76c76041f43fcbcb783aa869bab65a41f998b1c0963a6",
+        "size_in_bytes": 483
+      },
+      {
+        "_path": "Lib/site-packages/openid/yadis/discover.py",
+        "path_type": "hardlink",
+        "sha256": "a97cb2b189f1bdf57a595ad8c87c687b21471702884b32dfe4003959b11cfac6",
+        "sha256_in_prefix": "a97cb2b189f1bdf57a595ad8c87c687b21471702884b32dfe4003959b11cfac6",
+        "size_in_bytes": 6062
+      },
+      {
+        "_path": "Lib/site-packages/openid/yadis/etxrd.py",
+        "path_type": "hardlink",
+        "sha256": "45b3b53003ecf6aad599537cfbe11d8d5d6ac5548c7ef77ca61c482986ede394",
+        "sha256_in_prefix": "45b3b53003ecf6aad599537cfbe11d8d5d6ac5548c7ef77ca61c482986ede394",
+        "size_in_bytes": 8325
+      },
+      {
+        "_path": "Lib/site-packages/openid/yadis/filters.py",
+        "path_type": "hardlink",
+        "sha256": "a0c881cf1affd42441eee947ac56300ec16769b298f39ba613effcb7c3f6a54e",
+        "sha256_in_prefix": "a0c881cf1affd42441eee947ac56300ec16769b298f39ba613effcb7c3f6a54e",
+        "size_in_bytes": 7187
+      },
+      {
+        "_path": "Lib/site-packages/openid/yadis/manager.py",
+        "path_type": "hardlink",
+        "sha256": "475b615e881d0706e4da191759045d5a56d5b9bcda11af5145b7e41ff761164c",
+        "sha256_in_prefix": "475b615e881d0706e4da191759045d5a56d5b9bcda11af5145b7e41ff761164c",
+        "size_in_bytes": 6085
+      },
+      {
+        "_path": "Lib/site-packages/openid/yadis/parsehtml.py",
+        "path_type": "hardlink",
+        "sha256": "f9f350d96092d6bf6e42d51f48bed9ce0c87cef6b23dcc5cce0442acbafa13f4",
+        "sha256_in_prefix": "f9f350d96092d6bf6e42d51f48bed9ce0c87cef6b23dcc5cce0442acbafa13f4",
+        "size_in_bytes": 6061
+      },
+      {
+        "_path": "Lib/site-packages/openid/yadis/services.py",
+        "path_type": "hardlink",
+        "sha256": "bb748a13fd7ecba1d2f1b99ed3b9256ccc763d9ba88f08cd82c3a950d76244fe",
+        "sha256_in_prefix": "bb748a13fd7ecba1d2f1b99ed3b9256ccc763d9ba88f08cd82c3a950d76244fe",
+        "size_in_bytes": 1842
+      },
+      {
+        "_path": "Lib/site-packages/openid/yadis/xri.py",
+        "path_type": "hardlink",
+        "sha256": "fc711f198e6800094befc59bf2b7c4aafcbf3d7112a3f579b210f50a3fd87af7",
+        "sha256_in_prefix": "fc711f198e6800094befc59bf2b7c4aafcbf3d7112a3f579b210f50a3fd87af7",
+        "size_in_bytes": 3475
+      },
+      {
+        "_path": "Lib/site-packages/openid/yadis/xrires.py",
+        "path_type": "hardlink",
+        "sha256": "37f404ef0cf841600263da92839ce5eb1e1878eef2e066c5109a75348bb2ee91",
+        "sha256_in_prefix": "37f404ef0cf841600263da92839ce5eb1e1878eef2e066c5109a75348bb2ee91",
+        "size_in_bytes": 4276
+      },
+      {
+        "_path": "Lib/site-packages/python3_openid-3.1.0.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508",
+        "sha256_in_prefix": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508",
+        "size_in_bytes": 4
+      },
+      {
+        "_path": "Lib/site-packages/python3_openid-3.1.0.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+        "sha256_in_prefix": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30",
+        "size_in_bytes": 11358
+      },
+      {
+        "_path": "Lib/site-packages/python3_openid-3.1.0.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "89e6341c6d8b47c77b6f9b18d92500c26a41eda691558949811e59ad16b668e3",
+        "sha256_in_prefix": "89e6341c6d8b47c77b6f9b18d92500c26a41eda691558949811e59ad16b668e3",
+        "size_in_bytes": 1398
+      },
+      {
+        "_path": "Lib/site-packages/python3_openid-3.1.0.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "172a1f7e835e3adb424806227e6d603fdfb6b8f56459b7660299c6f796a4c1de",
+        "sha256_in_prefix": "172a1f7e835e3adb424806227e6d603fdfb6b8f56459b7660299c6f796a4c1de",
+        "size_in_bytes": 6059
+      },
+      {
+        "_path": "Lib/site-packages/python3_openid-3.1.0.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "da81783e11b9622923beafd6d8bf9a8d59cd9dd9e594b548d37a2171efe7d22a",
+        "sha256_in_prefix": "da81783e11b9622923beafd6d8bf9a8d59cd9dd9e594b548d37a2171efe7d22a",
+        "size_in_bytes": 98
+      },
+      {
+        "_path": "Lib/site-packages/python3_openid-3.1.0.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "3d92987a9803808a4395698eb7c691eda7a71c904154fbeb94e98313fd2e3a90",
+        "sha256_in_prefix": "3d92987a9803808a4395698eb7c691eda7a71c904154fbeb94e98313fd2e3a90",
+        "size_in_bytes": 7
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "2236a5f447efbb08691ed730808986ca2f5d2a2a694dcf305679d5e78b3a9029",
+  "size": 188766,
+  "subdir": "win-64",
+  "timestamp": 1579615063793,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/python3-openid-3.1.0-py38_1001.conda",
+  "version": "3.1.0"
+}

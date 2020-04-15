@@ -1,0 +1,104 @@
+{
+  "build": "py38_1003",
+  "build_number": 1003,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "flask >=0.10.1",
+    "python >=3.8,<3.9.0a0",
+    "python3-openid >=2.0"
+  ],
+  "extracted_package_dir": "C:\\Users\\d9ld9\\miniconda3\\pkgs\\flask-openid-1.2.5-py38_1003",
+  "features": "",
+  "files": [
+    "Lib/site-packages/Flask_OpenID-1.2.5.dist-info/INSTALLER",
+    "Lib/site-packages/Flask_OpenID-1.2.5.dist-info/LICENSE",
+    "Lib/site-packages/Flask_OpenID-1.2.5.dist-info/METADATA",
+    "Lib/site-packages/Flask_OpenID-1.2.5.dist-info/RECORD",
+    "Lib/site-packages/Flask_OpenID-1.2.5.dist-info/WHEEL",
+    "Lib/site-packages/Flask_OpenID-1.2.5.dist-info/top_level.txt",
+    "Lib/site-packages/__pycache__/flask_openid.cpython-38.pyc",
+    "Lib/site-packages/flask_openid.py",
+    ".nonadmin"
+  ],
+  "fn": "flask-openid-1.2.5-py38_1003.conda",
+  "legacy_bz2_md5": "f237d4fcf552d3173ca465ba23328934",
+  "license": "BSD 3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\d9ld9\\miniconda3\\pkgs\\flask-openid-1.2.5-py38_1003",
+    "type": 1
+  },
+  "md5": "1887f30d14fbba7dee96bd45573ba19f",
+  "name": "flask-openid",
+  "package_tarball_full_path": "C:\\Users\\d9ld9\\miniconda3\\pkgs\\flask-openid-1.2.5-py38_1003.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "Lib/site-packages/Flask_OpenID-1.2.5.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508",
+        "sha256_in_prefix": "ceebae7b8927a3227e5303cf5e0f1f7b34bb542ad7250ac03fbcde36ec2f1508",
+        "size_in_bytes": 4
+      },
+      {
+        "_path": "Lib/site-packages/Flask_OpenID-1.2.5.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "86fb05a0a5a6e0826166b89e9779817ce251bb5ad501740d81af5a6d22a72d1b",
+        "sha256_in_prefix": "86fb05a0a5a6e0826166b89e9779817ce251bb5ad501740d81af5a6d22a72d1b",
+        "size_in_bytes": 1723
+      },
+      {
+        "_path": "Lib/site-packages/Flask_OpenID-1.2.5.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "2106088a0f9ae606b9428a37ff842fd332c928463fb7760fb7d996247de878c5",
+        "sha256_in_prefix": "2106088a0f9ae606b9428a37ff842fd332c928463fb7760fb7d996247de878c5",
+        "size_in_bytes": 1039
+      },
+      {
+        "_path": "Lib/site-packages/Flask_OpenID-1.2.5.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "59a91019d97e3e05220b3426629c7a436e159d45c0f1af468ab76314b917aef4",
+        "sha256_in_prefix": "59a91019d97e3e05220b3426629c7a436e159d45c0f1af468ab76314b917aef4",
+        "size_in_bytes": 626
+      },
+      {
+        "_path": "Lib/site-packages/Flask_OpenID-1.2.5.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "da81783e11b9622923beafd6d8bf9a8d59cd9dd9e594b548d37a2171efe7d22a",
+        "sha256_in_prefix": "da81783e11b9622923beafd6d8bf9a8d59cd9dd9e594b548d37a2171efe7d22a",
+        "size_in_bytes": 98
+      },
+      {
+        "_path": "Lib/site-packages/Flask_OpenID-1.2.5.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "dac9a6ed84ff9b100d75b35631e1077d87fe9d5fdb645eec8e5386cc5e76b2e6",
+        "sha256_in_prefix": "dac9a6ed84ff9b100d75b35631e1077d87fe9d5fdb645eec8e5386cc5e76b2e6",
+        "size_in_bytes": 13
+      },
+      {
+        "_path": "Lib/site-packages/__pycache__/flask_openid.cpython-38.pyc",
+        "path_type": "hardlink",
+        "sha256": "29385c8c164f4924cac551a9759f9782d4ab37616f41c21f7cb72693a206cf7a",
+        "sha256_in_prefix": "29385c8c164f4924cac551a9759f9782d4ab37616f41c21f7cb72693a206cf7a",
+        "size_in_bytes": 18432
+      },
+      {
+        "_path": "Lib/site-packages/flask_openid.py",
+        "path_type": "hardlink",
+        "sha256": "8694d941a842171c2e2b00a815cce463873cbacaf23f4dce0803f73a0a90cacb",
+        "sha256_in_prefix": "8694d941a842171c2e2b00a815cce463873cbacaf23f4dce0803f73a0a90cacb",
+        "size_in_bytes": 22566
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "flask-openid",
+  "sha256": "f7b229045dde01c61425a9524fb890f7fd0ac896d0201ae2460722b225dc2626",
+  "size": 21612,
+  "subdir": "win-64",
+  "timestamp": 1579614963670,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/flask-openid-1.2.5-py38_1003.conda",
+  "version": "1.2.5"
+}

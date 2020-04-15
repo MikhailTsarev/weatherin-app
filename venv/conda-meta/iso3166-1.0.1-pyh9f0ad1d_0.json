@@ -1,0 +1,100 @@
+{
+  "build": "pyh9f0ad1d_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python"
+  ],
+  "extracted_package_dir": "C:\\Users\\d9ld9\\miniconda3\\pkgs\\iso3166-1.0.1-pyh9f0ad1d_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/iso3166-1.0.1.dist-info/INSTALLER",
+    "Lib/site-packages/iso3166-1.0.1.dist-info/LICENSE.txt",
+    "Lib/site-packages/iso3166-1.0.1.dist-info/METADATA",
+    "Lib/site-packages/iso3166-1.0.1.dist-info/RECORD",
+    "Lib/site-packages/iso3166-1.0.1.dist-info/WHEEL",
+    "Lib/site-packages/iso3166-1.0.1.dist-info/top_level.txt",
+    "Lib/site-packages/iso3166/__init__.py",
+    ".nonadmin",
+    "Lib/site-packages/iso3166/__pycache__/__init__.cpython-38.pyc"
+  ],
+  "fn": "iso3166-1.0.1-pyh9f0ad1d_0.tar.bz2",
+  "license": "MIT",
+  "license_family": "MIT",
+  "link": {
+    "source": "C:\\Users\\d9ld9\\miniconda3\\pkgs\\iso3166-1.0.1-pyh9f0ad1d_0",
+    "type": 1
+  },
+  "md5": "3b872a3945f511686e2d5fb417f26689",
+  "name": "iso3166",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\d9ld9\\miniconda3\\pkgs\\iso3166-1.0.1-pyh9f0ad1d_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/iso3166-1.0.1.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/iso3166-1.0.1.dist-info/LICENSE.txt",
+        "path_type": "hardlink",
+        "sha256": "8f91d08242c6dd25725a07afcf3dfd75674faf9f087f9cb6f94decc7c9c32715",
+        "sha256_in_prefix": "8f91d08242c6dd25725a07afcf3dfd75674faf9f087f9cb6f94decc7c9c32715",
+        "size_in_bytes": 1080
+      },
+      {
+        "_path": "site-packages/iso3166-1.0.1.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "97c640455f300995507cc9b1ea1399257c0026a3564d130a3cb1ff392e5142b0",
+        "sha256_in_prefix": "97c640455f300995507cc9b1ea1399257c0026a3564d130a3cb1ff392e5142b0",
+        "size_in_bytes": 3596
+      },
+      {
+        "_path": "site-packages/iso3166-1.0.1.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "2deb065c747db2b8276e18c985837b611ecbeaa1d441dd395e184cc8b8f1e4f0",
+        "sha256_in_prefix": "2deb065c747db2b8276e18c985837b611ecbeaa1d441dd395e184cc8b8f1e4f0",
+        "size_in_bytes": 608
+      },
+      {
+        "_path": "site-packages/iso3166-1.0.1.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "9064fbe0b5b245466b2f85602e1ebf835d8879597ff6ef5956169dae05d95046",
+        "sha256_in_prefix": "9064fbe0b5b245466b2f85602e1ebf835d8879597ff6ef5956169dae05d95046",
+        "size_in_bytes": 110
+      },
+      {
+        "_path": "site-packages/iso3166-1.0.1.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "71a725f9933a334ddbda2388504ba2585032dfdd235a67d097a6a15d9afdee12",
+        "sha256_in_prefix": "71a725f9933a334ddbda2388504ba2585032dfdd235a67d097a6a15d9afdee12",
+        "size_in_bytes": 8
+      },
+      {
+        "_path": "site-packages/iso3166/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "baa8cca5d21ec1a1b65237d26ecdc37494fcbc42e91806c6fbc86b2170c387de",
+        "sha256_in_prefix": "baa8cca5d21ec1a1b65237d26ecdc37494fcbc42e91806c6fbc86b2170c387de",
+        "size_in_bytes": 18832
+      },
+      {
+        "_path": "Lib/site-packages/iso3166/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "iso3166",
+  "sha256": "32888be23c322939baf5f401d24a2faf9bffb65acc33fbf92489eb9ad9a9e296",
+  "size": 11246,
+  "subdir": "noarch",
+  "timestamp": 1585918787514,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/iso3166-1.0.1-pyh9f0ad1d_0.tar.bz2",
+  "version": "1.0.1"
+}

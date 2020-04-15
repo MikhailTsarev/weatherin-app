@@ -1,0 +1,321 @@
+{
+  "build": "py_0",
+  "build_number": 0,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "dominate",
+    "flask >=0.8",
+    "python",
+    "visitor"
+  ],
+  "extracted_package_dir": "C:\\Users\\d9ld9\\miniconda3\\pkgs\\flask-bootstrap-3.3.7.1-py_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/Flask_Bootstrap-3.3.7.1-py2.7.egg-info/PKG-INFO",
+    "Lib/site-packages/Flask_Bootstrap-3.3.7.1-py2.7.egg-info/SOURCES.txt",
+    "Lib/site-packages/Flask_Bootstrap-3.3.7.1-py2.7.egg-info/dependency_links.txt",
+    "Lib/site-packages/Flask_Bootstrap-3.3.7.1-py2.7.egg-info/installed-files.txt",
+    "Lib/site-packages/Flask_Bootstrap-3.3.7.1-py2.7.egg-info/not-zip-safe",
+    "Lib/site-packages/Flask_Bootstrap-3.3.7.1-py2.7.egg-info/requires.txt",
+    "Lib/site-packages/Flask_Bootstrap-3.3.7.1-py2.7.egg-info/top_level.txt",
+    "Lib/site-packages/flask_bootstrap/__init__.py",
+    "Lib/site-packages/flask_bootstrap/forms.py",
+    "Lib/site-packages/flask_bootstrap/nav.py",
+    "Lib/site-packages/flask_bootstrap/static/css/bootstrap-theme.css",
+    "Lib/site-packages/flask_bootstrap/static/css/bootstrap-theme.css.map",
+    "Lib/site-packages/flask_bootstrap/static/css/bootstrap-theme.min.css",
+    "Lib/site-packages/flask_bootstrap/static/css/bootstrap.css",
+    "Lib/site-packages/flask_bootstrap/static/css/bootstrap.css.map",
+    "Lib/site-packages/flask_bootstrap/static/css/bootstrap.min.css",
+    "Lib/site-packages/flask_bootstrap/static/fonts/glyphicons-halflings-regular.eot",
+    "Lib/site-packages/flask_bootstrap/static/fonts/glyphicons-halflings-regular.svg",
+    "Lib/site-packages/flask_bootstrap/static/fonts/glyphicons-halflings-regular.ttf",
+    "Lib/site-packages/flask_bootstrap/static/fonts/glyphicons-halflings-regular.woff",
+    "Lib/site-packages/flask_bootstrap/static/fonts/glyphicons-halflings-regular.woff2",
+    "Lib/site-packages/flask_bootstrap/static/jquery.js",
+    "Lib/site-packages/flask_bootstrap/static/jquery.min.js",
+    "Lib/site-packages/flask_bootstrap/static/jquery.min.map",
+    "Lib/site-packages/flask_bootstrap/static/js/bootstrap.js",
+    "Lib/site-packages/flask_bootstrap/static/js/bootstrap.min.js",
+    "Lib/site-packages/flask_bootstrap/static/js/npm.js",
+    "Lib/site-packages/flask_bootstrap/templates/bootstrap/base.html",
+    "Lib/site-packages/flask_bootstrap/templates/bootstrap/fixes.html",
+    "Lib/site-packages/flask_bootstrap/templates/bootstrap/google.html",
+    "Lib/site-packages/flask_bootstrap/templates/bootstrap/pagination.html",
+    "Lib/site-packages/flask_bootstrap/templates/bootstrap/utils.html",
+    "Lib/site-packages/flask_bootstrap/templates/bootstrap/wtf.html",
+    ".nonadmin",
+    "Lib/site-packages/flask_bootstrap/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/flask_bootstrap/__pycache__/forms.cpython-38.pyc",
+    "Lib/site-packages/flask_bootstrap/__pycache__/nav.cpython-38.pyc"
+  ],
+  "fn": "flask-bootstrap-3.3.7.1-py_0.tar.bz2",
+  "license": "BSD-3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\d9ld9\\miniconda3\\pkgs\\flask-bootstrap-3.3.7.1-py_0",
+    "type": 1
+  },
+  "md5": "fc660bda8e3827fe38d14694d997f383",
+  "name": "flask-bootstrap",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\d9ld9\\miniconda3\\pkgs\\flask-bootstrap-3.3.7.1-py_0.tar.bz2",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/Flask_Bootstrap-3.3.7.1-py2.7.egg-info/PKG-INFO",
+        "path_type": "hardlink",
+        "sha256": "9dd109321d22759dae00cef4bf4cc558989f35e34c6675fcd0eb93fde521bd58",
+        "sha256_in_prefix": "9dd109321d22759dae00cef4bf4cc558989f35e34c6675fcd0eb93fde521bd58",
+        "size_in_bytes": 1826
+      },
+      {
+        "_path": "site-packages/Flask_Bootstrap-3.3.7.1-py2.7.egg-info/SOURCES.txt",
+        "path_type": "hardlink",
+        "sha256": "33f0304f6e9c7bd910584bb415441248d2769029713144ac08785c2617aaa457",
+        "sha256_in_prefix": "33f0304f6e9c7bd910584bb415441248d2769029713144ac08785c2617aaa457",
+        "size_in_bytes": 1431
+      },
+      {
+        "_path": "site-packages/Flask_Bootstrap-3.3.7.1-py2.7.egg-info/dependency_links.txt",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "site-packages/Flask_Bootstrap-3.3.7.1-py2.7.egg-info/installed-files.txt",
+        "path_type": "hardlink",
+        "sha256": "c79fa18de02d7fc19800bc6d90d097db9270faef96c2d475c56c62449e8b8796",
+        "sha256_in_prefix": "c79fa18de02d7fc19800bc6d90d097db9270faef96c2d475c56c62449e8b8796",
+        "size_in_bytes": 1425
+      },
+      {
+        "_path": "site-packages/Flask_Bootstrap-3.3.7.1-py2.7.egg-info/not-zip-safe",
+        "path_type": "hardlink",
+        "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "sha256_in_prefix": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+        "size_in_bytes": 1
+      },
+      {
+        "_path": "site-packages/Flask_Bootstrap-3.3.7.1-py2.7.egg-info/requires.txt",
+        "path_type": "hardlink",
+        "sha256": "a481d1392e7b9b2055f32a7489dad334422257bfe2fae29663c5e4edaf8e7a0e",
+        "sha256_in_prefix": "a481d1392e7b9b2055f32a7489dad334422257bfe2fae29663c5e4edaf8e7a0e",
+        "size_in_bytes": 28
+      },
+      {
+        "_path": "site-packages/Flask_Bootstrap-3.3.7.1-py2.7.egg-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "31c8905f20072a7ff08a5c5499a4cea04ae9cd1bc63e8a87b011d0c064a9e2c6",
+        "sha256_in_prefix": "31c8905f20072a7ff08a5c5499a4cea04ae9cd1bc63e8a87b011d0c064a9e2c6",
+        "size_in_bytes": 16
+      },
+      {
+        "_path": "site-packages/flask_bootstrap/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "31609d2a4738992b8b7acd6ed55681e987109a26ee7f5e6d11a6dc053756b401",
+        "sha256_in_prefix": "31609d2a4738992b8b7acd6ed55681e987109a26ee7f5e6d11a6dc053756b401",
+        "size_in_bytes": 6108
+      },
+      {
+        "_path": "site-packages/flask_bootstrap/forms.py",
+        "path_type": "hardlink",
+        "sha256": "984b86c2e9b8b88d9b24a3703ca7910c314cc941afe4ca28aae436f4f65f0fb0",
+        "sha256_in_prefix": "984b86c2e9b8b88d9b24a3703ca7910c314cc941afe4ca28aae436f4f65f0fb0",
+        "size_in_bytes": 4628
+      },
+      {
+        "_path": "site-packages/flask_bootstrap/nav.py",
+        "path_type": "hardlink",
+        "sha256": "c2d1072ebdc8e44e1a87a250868c566e10b78e256e2e43800b48cbb560042b62",
+        "sha256_in_prefix": "c2d1072ebdc8e44e1a87a250868c566e10b78e256e2e43800b48cbb560042b62",
+        "size_in_bytes": 3437
+      },
+      {
+        "_path": "site-packages/flask_bootstrap/static/css/bootstrap-theme.css",
+        "path_type": "hardlink",
+        "sha256": "c4ea52f9efdd111f33ef6c3eaabc8289e386cac408f1c10b015b773071b4a616",
+        "sha256_in_prefix": "c4ea52f9efdd111f33ef6c3eaabc8289e386cac408f1c10b015b773071b4a616",
+        "size_in_bytes": 26132
+      },
+      {
+        "_path": "site-packages/flask_bootstrap/static/css/bootstrap-theme.css.map",
+        "path_type": "hardlink",
+        "sha256": "71941b253b8942374cd57b8a85d473489f21311438ba9e3dd4fefa22adbf0f53",
+        "sha256_in_prefix": "71941b253b8942374cd57b8a85d473489f21311438ba9e3dd4fefa22adbf0f53",
+        "size_in_bytes": 47706
+      },
+      {
+        "_path": "site-packages/flask_bootstrap/static/css/bootstrap-theme.min.css",
+        "path_type": "hardlink",
+        "sha256": "653e073e97423adda5bc3917a241ee8497dd38a48f14bcde0098a4e54fd0fa5e",
+        "sha256_in_prefix": "653e073e97423adda5bc3917a241ee8497dd38a48f14bcde0098a4e54fd0fa5e",
+        "size_in_bytes": 23409
+      },
+      {
+        "_path": "site-packages/flask_bootstrap/static/css/bootstrap.css",
+        "path_type": "hardlink",
+        "sha256": "7e630d90c7234b0df1729f62b8f9e4bbfaf293d91a5a0ac46df25f2a6759e39a",
+        "sha256_in_prefix": "7e630d90c7234b0df1729f62b8f9e4bbfaf293d91a5a0ac46df25f2a6759e39a",
+        "size_in_bytes": 146010
+      },
+      {
+        "_path": "site-packages/flask_bootstrap/static/css/bootstrap.css.map",
+        "path_type": "hardlink",
+        "sha256": "9cd84a2a5162c816a8bbbd79cf9dc0605bc0ea86e4cd2bab43aee069bb83d266",
+        "sha256_in_prefix": "9cd84a2a5162c816a8bbbd79cf9dc0605bc0ea86e4cd2bab43aee069bb83d266",
+        "size_in_bytes": 389287
+      },
+      {
+        "_path": "site-packages/flask_bootstrap/static/css/bootstrap.min.css",
+        "path_type": "hardlink",
+        "sha256": "f75e846cc83bd11432f4b1e21a45f31bc85283d11d372f7b19accd1bf6a2635c",
+        "sha256_in_prefix": "f75e846cc83bd11432f4b1e21a45f31bc85283d11d372f7b19accd1bf6a2635c",
+        "size_in_bytes": 121200
+      },
+      {
+        "_path": "site-packages/flask_bootstrap/static/fonts/glyphicons-halflings-regular.eot",
+        "path_type": "hardlink",
+        "sha256": "13634da87d9e23f8c3ed9108ce1724d183a39ad072e73e1b3d8cbf646d2d0407",
+        "sha256_in_prefix": "13634da87d9e23f8c3ed9108ce1724d183a39ad072e73e1b3d8cbf646d2d0407",
+        "size_in_bytes": 20127
+      },
+      {
+        "_path": "site-packages/flask_bootstrap/static/fonts/glyphicons-halflings-regular.svg",
+        "path_type": "hardlink",
+        "sha256": "42f60659d265c1a3c30f9fa42abcbb56bd4a53af4d83d316d6dd7a36903c43e5",
+        "sha256_in_prefix": "42f60659d265c1a3c30f9fa42abcbb56bd4a53af4d83d316d6dd7a36903c43e5",
+        "size_in_bytes": 108738
+      },
+      {
+        "_path": "site-packages/flask_bootstrap/static/fonts/glyphicons-halflings-regular.ttf",
+        "path_type": "hardlink",
+        "sha256": "e395044093757d82afcb138957d06a1ea9361bdcf0b442d06a18a8051af57456",
+        "sha256_in_prefix": "e395044093757d82afcb138957d06a1ea9361bdcf0b442d06a18a8051af57456",
+        "size_in_bytes": 45404
+      },
+      {
+        "_path": "site-packages/flask_bootstrap/static/fonts/glyphicons-halflings-regular.woff",
+        "path_type": "hardlink",
+        "sha256": "a26394f7ede100ca118eff2eda08596275a9839b959c226e15439557a5a80742",
+        "sha256_in_prefix": "a26394f7ede100ca118eff2eda08596275a9839b959c226e15439557a5a80742",
+        "size_in_bytes": 23424
+      },
+      {
+        "_path": "site-packages/flask_bootstrap/static/fonts/glyphicons-halflings-regular.woff2",
+        "path_type": "hardlink",
+        "sha256": "fe185d11a49676890d47bb783312a0cda5a44c4039214094e7957b4c040ef11c",
+        "sha256_in_prefix": "fe185d11a49676890d47bb783312a0cda5a44c4039214094e7957b4c040ef11c",
+        "size_in_bytes": 18028
+      },
+      {
+        "_path": "site-packages/flask_bootstrap/static/jquery.js",
+        "path_type": "hardlink",
+        "sha256": "430f36f9b5f21aae8cc9dca6a81c4d3d84da5175eaedcf2fdc2c226302cb3575",
+        "sha256_in_prefix": "430f36f9b5f21aae8cc9dca6a81c4d3d84da5175eaedcf2fdc2c226302cb3575",
+        "size_in_bytes": 293430
+      },
+      {
+        "_path": "site-packages/flask_bootstrap/static/jquery.min.js",
+        "path_type": "hardlink",
+        "sha256": "668b046d12db350ccba6728890476b3efee53b2f42dbb84743e5e9f1ae0cc404",
+        "sha256_in_prefix": "668b046d12db350ccba6728890476b3efee53b2f42dbb84743e5e9f1ae0cc404",
+        "size_in_bytes": 97163
+      },
+      {
+        "_path": "site-packages/flask_bootstrap/static/jquery.min.map",
+        "path_type": "hardlink",
+        "sha256": "502f2b36e97ee4d9c39007cb2b4683bf89b8b119a715dcd2b211ccbe574aeff0",
+        "sha256_in_prefix": "502f2b36e97ee4d9c39007cb2b4683bf89b8b119a715dcd2b211ccbe574aeff0",
+        "size_in_bytes": 143947
+      },
+      {
+        "_path": "site-packages/flask_bootstrap/static/js/bootstrap.js",
+        "path_type": "hardlink",
+        "sha256": "0abe8deb334de1ba743b04d0399e99eba336afed9da72fc4c0a302c99f9238c8",
+        "sha256_in_prefix": "0abe8deb334de1ba743b04d0399e99eba336afed9da72fc4c0a302c99f9238c8",
+        "size_in_bytes": 69707
+      },
+      {
+        "_path": "site-packages/flask_bootstrap/static/js/bootstrap.min.js",
+        "path_type": "hardlink",
+        "sha256": "53964478a7c634e8dad34ecc303dd8048d00dce4993906de1bacf67f663486ef",
+        "sha256_in_prefix": "53964478a7c634e8dad34ecc303dd8048d00dce4993906de1bacf67f663486ef",
+        "size_in_bytes": 37045
+      },
+      {
+        "_path": "site-packages/flask_bootstrap/static/js/npm.js",
+        "path_type": "hardlink",
+        "sha256": "c7aa82a1aa7d45224a38d926d2adaff7fe4aef5bcdafa2a47bdac057f4422c2d",
+        "sha256_in_prefix": "c7aa82a1aa7d45224a38d926d2adaff7fe4aef5bcdafa2a47bdac057f4422c2d",
+        "size_in_bytes": 484
+      },
+      {
+        "_path": "site-packages/flask_bootstrap/templates/bootstrap/base.html",
+        "path_type": "hardlink",
+        "sha256": "e18f9cae9c984cf17e2cf5f7e49f6ac76796a2dc53f71c49083c72e6968f13c0",
+        "sha256_in_prefix": "e18f9cae9c984cf17e2cf5f7e49f6ac76796a2dc53f71c49083c72e6968f13c0",
+        "size_in_bytes": 1047
+      },
+      {
+        "_path": "site-packages/flask_bootstrap/templates/bootstrap/fixes.html",
+        "path_type": "hardlink",
+        "sha256": "ada772cdb0860f2c5b033daf98655fd0e3484f43695cdcdc05a510b0ba82b580",
+        "sha256_in_prefix": "ada772cdb0860f2c5b033daf98655fd0e3484f43695cdcdc05a510b0ba82b580",
+        "size_in_bytes": 287
+      },
+      {
+        "_path": "site-packages/flask_bootstrap/templates/bootstrap/google.html",
+        "path_type": "hardlink",
+        "sha256": "9f7caae35e1cbacbce4566d14bff0512d47f30269aa506721aa18055d9f3315c",
+        "sha256_in_prefix": "9f7caae35e1cbacbce4566d14bff0512d47f30269aa506721aa18055d9f3315c",
+        "size_in_bytes": 1607
+      },
+      {
+        "_path": "site-packages/flask_bootstrap/templates/bootstrap/pagination.html",
+        "path_type": "hardlink",
+        "sha256": "71cdd8f7e2c841566b250ae30bed4f024649930d1d0ef3445ceafd084ab77671",
+        "sha256_in_prefix": "71cdd8f7e2c841566b250ae30bed4f024649930d1d0ef3445ceafd084ab77671",
+        "size_in_bytes": 2020
+      },
+      {
+        "_path": "site-packages/flask_bootstrap/templates/bootstrap/utils.html",
+        "path_type": "hardlink",
+        "sha256": "ef64fae71d3ee15178bc0d9af8b87620cc75c374a022a9412a5e5a2380fa7989",
+        "sha256_in_prefix": "ef64fae71d3ee15178bc0d9af8b87620cc75c374a022a9412a5e5a2380fa7989",
+        "size_in_bytes": 1490
+      },
+      {
+        "_path": "site-packages/flask_bootstrap/templates/bootstrap/wtf.html",
+        "path_type": "hardlink",
+        "sha256": "fbb3efb97b6bbe3c5100b52a21993ec8a5f41199be76c2732e5685fb3aeeb369",
+        "sha256_in_prefix": "fbb3efb97b6bbe3c5100b52a21993ec8a5f41199be76c2732e5685fb3aeeb369",
+        "size_in_bytes": 8115
+      },
+      {
+        "_path": "Lib/site-packages/flask_bootstrap/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flask_bootstrap/__pycache__/forms.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flask_bootstrap/__pycache__/nav.cpython-38.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "flask-bootstrap",
+  "sha256": "ec2c71037f842d93e19c9b9958b9d1ba4212d79d579d24c2ee665ddb1c7288e7",
+  "size": 419112,
+  "subdir": "noarch",
+  "timestamp": 1531157694880,
+  "track_features": "",
+  "url": "https://conda.anaconda.org/conda-forge/noarch/flask-bootstrap-3.3.7.1-py_0.tar.bz2",
+  "version": "3.3.7.1"
+}

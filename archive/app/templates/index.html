@@ -1,0 +1,26 @@
+<html>
+    <head>
+        <title>Узнайте погоду в городе {{city}}!</title>
+        <style>
+            a {text-decoration: none;}
+        </style>
+    </head>
+    <body>
+        {% if user %}
+        <h1>Привет, {{user.nickname}}!</h1>
+        <p> Посмотри, что там на улице!</p>
+        <a href="/weather"> Что там на улице? O_o </a>
+        <hr>
+        {% endif %}
+        {% with messages = get_flashed_messages() %}
+        {% if messages %}
+        <ul>
+            {% for message in messages %}
+            <li>{{ message }} </li>
+            {% endfor %}
+        </ul>
+        {% endif %}
+        {% endwith %}
+        {% block content %}{% endblock %}
+    </body>
+</html>

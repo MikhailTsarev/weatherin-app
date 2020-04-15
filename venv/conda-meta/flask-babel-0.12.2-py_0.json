@@ -1,0 +1,130 @@
+{
+  "build": "py_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/noarch",
+  "constrains": [],
+  "depends": [
+    "babel >=2.3",
+    "flask",
+    "jinja2 >=2.5",
+    "python"
+  ],
+  "extracted_package_dir": "C:\\Users\\d9ld9\\miniconda3\\pkgs\\flask-babel-0.12.2-py_0",
+  "features": "",
+  "files": [
+    "Lib/site-packages/Flask_Babel-0.12.2.dist-info/INSTALLER",
+    "Lib/site-packages/Flask_Babel-0.12.2.dist-info/LICENSE",
+    "Lib/site-packages/Flask_Babel-0.12.2.dist-info/METADATA",
+    "Lib/site-packages/Flask_Babel-0.12.2.dist-info/RECORD",
+    "Lib/site-packages/Flask_Babel-0.12.2.dist-info/WHEEL",
+    "Lib/site-packages/Flask_Babel-0.12.2.dist-info/top_level.txt",
+    "Lib/site-packages/flask_babel/__init__.py",
+    "Lib/site-packages/flask_babel/_compat.py",
+    "Lib/site-packages/flask_babel/speaklater.py",
+    ".nonadmin",
+    "Lib/site-packages/flask_babel/__pycache__/__init__.cpython-38.pyc",
+    "Lib/site-packages/flask_babel/__pycache__/_compat.cpython-38.pyc",
+    "Lib/site-packages/flask_babel/__pycache__/speaklater.cpython-38.pyc"
+  ],
+  "fn": "flask-babel-0.12.2-py_0.conda",
+  "legacy_bz2_md5": "e4549bc5a79b167305d13434fcf363e3",
+  "license": "BSD 3-Clause",
+  "license_family": "BSD",
+  "link": {
+    "source": "C:\\Users\\d9ld9\\miniconda3\\pkgs\\flask-babel-0.12.2-py_0",
+    "type": 1
+  },
+  "md5": "2e01d46fb56704b2871525bfa9711d36",
+  "name": "flask-babel",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\d9ld9\\miniconda3\\pkgs\\flask-babel-0.12.2-py_0.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "site-packages/Flask_Babel-0.12.2.dist-info/INSTALLER",
+        "path_type": "hardlink",
+        "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+        "size_in_bytes": 5
+      },
+      {
+        "_path": "site-packages/Flask_Babel-0.12.2.dist-info/LICENSE",
+        "path_type": "hardlink",
+        "sha256": "a526100a7047237360a394ba4f70ae801b50ff9b8c9b9e73e7795480a59f6b7e",
+        "sha256_in_prefix": "a526100a7047237360a394ba4f70ae801b50ff9b8c9b9e73e7795480a59f6b7e",
+        "size_in_bytes": 1457
+      },
+      {
+        "_path": "site-packages/Flask_Babel-0.12.2.dist-info/METADATA",
+        "path_type": "hardlink",
+        "sha256": "629731acd8272694c7c28c43ba183279be29b8425f9cc83676e1bb52e23e91d3",
+        "sha256_in_prefix": "629731acd8272694c7c28c43ba183279be29b8425f9cc83676e1bb52e23e91d3",
+        "size_in_bytes": 1822
+      },
+      {
+        "_path": "site-packages/Flask_Babel-0.12.2.dist-info/RECORD",
+        "path_type": "hardlink",
+        "sha256": "42e15057d461efcbbce7f868972200b1c6f0388fa0b9b7899fec8403e83abb5b",
+        "sha256_in_prefix": "42e15057d461efcbbce7f868972200b1c6f0388fa0b9b7899fec8403e83abb5b",
+        "size_in_bytes": 838
+      },
+      {
+        "_path": "site-packages/Flask_Babel-0.12.2.dist-info/WHEEL",
+        "path_type": "hardlink",
+        "sha256": "23bf6aa29589ebd9794fac196b2b7d55438c79c19918fceedbf89c6d16168e92",
+        "sha256_in_prefix": "23bf6aa29589ebd9794fac196b2b7d55438c79c19918fceedbf89c6d16168e92",
+        "size_in_bytes": 93
+      },
+      {
+        "_path": "site-packages/Flask_Babel-0.12.2.dist-info/top_level.txt",
+        "path_type": "hardlink",
+        "sha256": "d82235793be43d2c720ec988023092cefc82f6fc9ee809ea7af1380723a81a98",
+        "sha256_in_prefix": "d82235793be43d2c720ec988023092cefc82f6fc9ee809ea7af1380723a81a98",
+        "size_in_bytes": 12
+      },
+      {
+        "_path": "site-packages/flask_babel/__init__.py",
+        "path_type": "hardlink",
+        "sha256": "258d85a9175d0e7884de299fc62314a18dab3097479b347392e7a96dca4491c4",
+        "sha256_in_prefix": "258d85a9175d0e7884de299fc62314a18dab3097479b347392e7a96dca4491c4",
+        "size_in_bytes": 22024
+      },
+      {
+        "_path": "site-packages/flask_babel/_compat.py",
+        "path_type": "hardlink",
+        "sha256": "fa3c2a0bc0cfcec6f2e2507f839d0f0d0e685cadc45948ed184cef0debf12be7",
+        "sha256_in_prefix": "fa3c2a0bc0cfcec6f2e2507f839d0f0d0e685cadc45948ed184cef0debf12be7",
+        "size_in_bytes": 366
+      },
+      {
+        "_path": "site-packages/flask_babel/speaklater.py",
+        "path_type": "hardlink",
+        "sha256": "6ba6e235337747678cb43522aa0435921d9e00303bb6075ab10bca39311df20a",
+        "sha256_in_prefix": "6ba6e235337747678cb43522aa0435921d9e00303bb6075ab10bca39311df20a",
+        "size_in_bytes": 1860
+      },
+      {
+        "_path": "Lib/site-packages/flask_babel/__pycache__/__init__.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flask_babel/__pycache__/_compat.cpython-38.pyc",
+        "path_type": "pyc_file"
+      },
+      {
+        "_path": "Lib/site-packages/flask_babel/__pycache__/speaklater.cpython-38.pyc",
+        "path_type": "pyc_file"
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "flask-babel",
+  "sha256": "789789517b4a239430b05fb0e39dea6dc7b2f8d14ff2f725db1df1324d746467",
+  "size": 13941,
+  "subdir": "noarch",
+  "timestamp": 1579614973805,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/noarch/flask-babel-0.12.2-py_0.conda",
+  "version": "0.12.2"
+}
