@@ -32,6 +32,9 @@ def create_response():
                 feels_like = '+' + feels_like
             timestamp = jsonData['dt']
             dt = datetime.datetime.fromtimestamp(timestamp).strftime('%H:%M:%S %d.%m.%Y')
+            cond = {'perception': (jsonData['main']['feels_like']<10),
+                    'humidity': (jsonData['main']['humidity']>30),
+                    'wind': ((-jsonData['main']['temp']-6+(5/6)*jsonData['wind']['speed'])>0) | (jsonData['wind']['speed']>5) | (jsonData['main']['temp']<5)}
             context.update({'weather': str(jsonData['weather'][0]['description']),
                             'coord': jsonData['coord'],
                             'country': countries.get(jsonData['sys']['country']).name,
@@ -39,6 +42,7 @@ def create_response():
                             'feels_like': feels_like,
                             'humidity': str(jsonData['main']['humidity']),
                             'speed': str(jsonData['wind']['speed']),
+                            'cond': cond,
                             'dt': str(dt),
                             'img': jsonData['weather'][0]['icon']})
             return render_template('weather.html', **context)
