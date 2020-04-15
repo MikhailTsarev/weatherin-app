@@ -20,7 +20,7 @@
 </div>
 <div>
     {% if temp %}
-    <h1>Погода в г. {{city}}</h1>
+    <h1>Погода в г. {{city}} ({{country}})</h1>
     <h3>по состоянию на {{dt}}</h3>
     <p> Долгота: {{coord.lon}}, широта: {{coord.lat}}</p>
     <p> {{temp}}&deg;C, {{weather}}</p><img src='http://openweathermap.org/img/wn/{{img}}@2x.png'>

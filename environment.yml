@@ -1,4 +1,4 @@
-name: C:\Users\d9ld9\github\weatherin app\venv
+name: C:\<provide your path>\venv
 channels:
   - conda-forge
   - defaults
@@ -60,4 +60,4 @@ dependencies:
   - wincertstore=0.2=py38_0
   - wtforms=2.2.1=py_0
   - xlrd=1.2.0=py_0
-prefix: C:\Users\d9ld9\github\weatherin app\venv
+prefix: C:\<provide your path>\venv
